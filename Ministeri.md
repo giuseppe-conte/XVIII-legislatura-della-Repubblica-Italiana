@@ -1,1 +1,2 @@
 #Ministeri:
+Economia: Paolo Savona
